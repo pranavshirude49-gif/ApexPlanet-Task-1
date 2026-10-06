@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<rect width="600" height="420" rx="35" fill="#ffffff"/>
+<rect x="55" y="55" width="490" height="310" rx="20" fill="#e8f8f2"/>
+<rect x="85" y="90" width="430" height="235" rx="12" fill="#17324d"/>
+<circle cx="112" cy="115" r="8" fill="#ffffff"/>
+<circle cx="138" cy="115" r="8" fill="#ffffff"/>
+<circle cx="164" cy="115" r="8" fill="#ffffff"/>
+<text x="105" y="165" font-family="Arial" font-size="28" font-weight="bold" fill="#7de2c5">&lt;HTML&gt;</text>
+<text x="105" y="210" font-family="Arial" font-size="25" fill="#ffffff">CSS + JavaScript</text>
+<text x="105" y="255" font-family="Arial" font-size="18" fill="#b9c9d8">Build • Style • Interact</text>
+<rect x="105" y="280" width="150" height="20" rx="10" fill="#087f6e"/>
+<rect x="270" y="280" width="100" height="20" rx="10" fill="#1d4f91"/>
+</svg>
